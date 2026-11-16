@@ -1,0 +1,78 @@
+id,sentence,label,agreement,bert_right_share,finbert_right_share,bert_usual_label,finbert_usual_label,pattern
+862,Net sales in 2007 totalled EUR 329 million and the operating margin was above 19 % .,neutral,50,0.8,0.2,neutral,positive,bert_wins
+1487,A realignment of interests in the sector is clearly under way .,positive,50,0.8,0.0,positive,neutral,bert_wins
+490,"HELSINKI AFX - KCI Konecranes said it has raised its stake in MMH Holdings Inc , the owner of US-based Morris Materials Handling , to 90.9 pct from 74.5 pct .",positive,66,0.8,0.2,positive,neutral,bert_wins
+661,"According to Sepp+ñnen , the new technology UMTS900 solution network building costs are by one-third lower than that of the building of 3.5 G networks , operating at 2,100 MHz frequency .",positive,66,0.8,0.2,positive,negative,bert_wins
+4616,"Capacity will ease at its Seikku sawmill in Pori and Alholma sawmill in Pietarsaari and result in 60 people being laid off for around six weeks starting mid-May , it said .",negative,66,0.8,0.1,negative,neutral,bert_wins
+3350,"The share sale , to foreign and Finnish investors , is expected to raise some euro300 million ( US$ 380 million ) .",neutral,75,1.0,0.2,neutral,positive,bert_wins
+3847,"The group posted net sales of 35.3 mln euro $ 46.5 mln and an operating profit of 760,000 euro $ 1.0 mln in 2005 .",neutral,100,0.9,0.2,neutral,positive,bert_wins
+63,"At first the contract envisaged the construction of three ferryboats with an option for two more units , further confirmed at a total value of 500 mln euro ( $ 645.8 mln ) .",positive,50,0.1,0.1,neutral,neutral,both_wrong
+296,The increase in capital stock has been registered in the Finnish Trade Register on 20 November 2006 .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+413,A tinyurl link takes users to a scamming site promising that users can earn thousands of dollars by becoming a Google ( NASDAQ : GOOG ) Cash advertiser .,negative,50,0.0,0.0,neutral,neutral,both_wrong
+869,Panostaja Oyj s ( Panostaja ) Board of Directors decided on 16 December 2010 on a new long-term incentive and commitment plan for members of the management team .,positive,50,0.0,0.1,neutral,neutral,both_wrong
+1074,TeliaSonera is the leading telecommunications company in the Nordic and Baltic regions .,positive,50,0.2,0.2,neutral,neutral,both_wrong
+1100,"The report provides a comprehensive insight into the company , including business structure and operations , executive biographies and key competitors .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1297,One of Uponor 's promising future products is a hydronic cooling system .,positive,50,0.1,0.1,neutral,neutral,both_wrong
+1328,Shareholders of Rakvere Lihakombinaat decided in favor of the buyout of minority shares in mid-July .,positive,50,0.0,0.1,neutral,neutral,both_wrong
+1341,Technopolis is Europe 's leading operator of technoparks .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1420,The shopping center will have a prime location right next to the Myllypuro metro station .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1713,I thank Jarmo Ukonaho warmly for his contribution and wish him all the best in the future challenges . '',neutral,50,0.2,0.2,positive,positive,both_wrong
+1861,"The iTunes-based material will be accessible on Windows-based or Macintosh computers and transferable to portable devices , including Apple 's iPods .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1869,This bold spinning 360 red fabric design is set beautifully on Ercols Napoli sofa .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1888,CDLI highlights the companies that provided the most comprehensive response to the Carbon Disclosure Project CDP information request .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+2052,"Vaahto , which has entered the deal via its subsidiary Vaahto Pulp & Paper Machinery , will supply two of the units in the end of 2010 , while the remaining ones are expected for delivery in the beginning of 2011 .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+3516,"Among paper issues , Stora Enso R was little changed -- up 0.08 pct at 12.03 eur , UPM-Kymmene was 0.48 pct higher at 18.77 eur and M-real B added 0.50 pct to 3.99 eur .",neutral,50,0.2,0.0,negative,positive,both_wrong
+3593,"Garmin fell 4.5 percent to $ 34.53 at 1:33 p.m. in New York , while Google slid 0.7 percent at $ 576.50 .",neutral,50,0.0,0.0,negative,negative,both_wrong
+4011,Finnish home decoration and arts and crafts retailer Tiimari Plc ( OMX Helsinki : TII1V ) reported on Monday ( 18 August ) an operating loss of EUR3 .3 m on net sales of EUR33 .9 m for the period January-June 2008 .,neutral,50,0.1,0.2,negative,negative,both_wrong
+4036,Raisio 's malting capacity was in full use in 2008 .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+4037,"Raw materials prices have surged in the past year , fueled in part because of the rapid industrialization of China , India and other developing nations .",negative,50,0.0,0.0,positive,positive,both_wrong
+4119,"That 's what I go to bed worrying about every night , ' he said .",negative,50,0.0,0.0,neutral,neutral,both_wrong
+4273,They will cover all Forest Industry 's units and employees in Finland and concern temporary and permanent lay-offs .,negative,50,0.2,0.2,neutral,neutral,both_wrong
+4277,"We are adjusting to the present situation by cutting our capacity and costs without , however , jeopardising our Asia strategy over the longer term .",neutral,50,0.0,0.0,negative,positive,both_wrong
+4318,Most of the layoffs will be in Finland .,negative,50,0.2,0.2,neutral,neutral,both_wrong
+4381,"At present , the trade mark Pit-Produkt is little-known outside the North-West of Russia .",negative,50,0.0,0.0,neutral,neutral,both_wrong
+4461,This ideally placed them in a position to tap into the potential of clean technology .,neutral,50,0.2,0.2,positive,positive,both_wrong
+283,The agreement expands Tekla Structures ' scope of use to bridge design .,positive,66,0.1,0.1,neutral,neutral,both_wrong
+437,"MILAN ( AFX ) - The Italian shipping group Grimaldi has increased its stake in the Finnish company Finnlines to 35.4 pct from the 30.5 pct held in June , according to news agency ANSA .",neutral,66,0.1,0.1,positive,positive,both_wrong
+691,Also construction expenses have gone up in Russia .,negative,66,0.1,0.1,positive,positive,both_wrong
+815,"According to the CEO of Nordea Bank Estonia Vahur Kraft , Nordea Finland and Stockmann have been cooperating for more than ten years .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+937,"As a result , the distribution companies will start to distribute , in addition to their current product offering , Shimano reels , rods and other Shimano fishing tackle products on an exclusive basis .",positive,66,0.0,0.2,neutral,neutral,both_wrong
+951,Incap and Lankapaja aim to enter into actual agreement to transfer the sheet-metal production to the buyer in February in order to complete the transfer on 1 March 2011 .,positive,66,0.0,0.1,neutral,neutral,both_wrong
+969,The ` buy ' recommendation was reiterated .,positive,66,0.1,0.1,neutral,neutral,both_wrong
+1485,A new Kveyt light variety of Suomalainen Pekoni marketed under the Atria brand name is now available to consumers in Finland .,positive,66,0.1,0.0,neutral,neutral,both_wrong
+1490,"Finnish construction company YIT Corporation is planning to build about 200 high-quality holiday homes near the Tahko ski and spa resort , in Finland .",positive,66,0.2,0.0,neutral,neutral,both_wrong
+1632,"The most loyal customers were found in the Bank of +àland , with an index of 8.0 .",positive,66,0.1,0.0,neutral,neutral,both_wrong
+1642,The pipeline is strong .,positive,66,0.1,0.1,neutral,neutral,both_wrong
+1660,"There are companies , which are ready to invest their own funds in this deal such as Rostelecom RTS : RTKM .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+1942,"The negotiations were carried out in a constructive manner , and all parties tried to find a solution to the situation .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+1998,Airbus has 100 firm orders for the A350 and 89 nonbinding commitments .,positive,66,0.2,0.0,neutral,neutral,both_wrong
+2187,"Tallink claims the watertight doors of both Vana Tallinn and Regina Baltica , including their electrical systems , are fully in working order .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+2231,The offer represents a premium of 24 % over the stock 's closing price on Friday .,positive,66,0.0,0.0,neutral,neutral,both_wrong
+3202,The compnay also said that it would lower the price of development projects by about one third compared with last November .,neutral,66,0.0,0.1,negative,negative,both_wrong
+3322,The prices of stainless steel also rose in Europe .,neutral,66,0.1,0.0,positive,positive,both_wrong
+4141,"According to Swedish authorities , traces of the very toxic osmium tetroxide have been found on the coast of Per+ñmeri , the Northernmost part of the Gulf of Bothnia .",negative,66,0.1,0.0,neutral,neutral,both_wrong
+4517,Rosen was cautious about being too optimistic inregard to the second half of the year .,neutral,66,0.2,0.0,negative,negative,both_wrong
+4832,"Rinkuskiai 's beer sales fell by 6.5 per cent to 4.16 million litres , while Kauno Alus ' beer sales jumped by 6.9 per cent to 2.48 million litres .",neutral,66,0.0,0.0,negative,negative,both_wrong
+59,"In Sweden , Gallerix accumulated SEK denominated sales were down 1 % and EUR denominated sales were up 11 % .",neutral,75,0.0,0.2,negative,negative,both_wrong
+850,Industry Investment is very interested in Glaston 's solar energy projects .,positive,75,0.0,0.0,neutral,neutral,both_wrong
+853,"Known as Post Bank , the concept would see Fidelity Bank rolling out 75 offices in Ghana Post premises , to provide financial services to the people .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+889,"The broker has initiated both Palfinger AG and Konecranes OYJ with ` buy ' recommendations , with 51 and 42 eur price targets respectively .",positive,75,0.0,0.2,neutral,neutral,both_wrong
+907,"The planned facility , estimated to cost around $ 814 million , would be the largest biodiesel plant in the world , and use palm oil certified by the Roundtable on Sustainable Palm Oil ( RSPO ) .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+945,fi is developing cooperation in keyword advertising with Microsoft .,positive,75,0.2,0.0,neutral,neutral,both_wrong
+1062,"Only this time , Nokia , India 's largest MNC , has sought out a topic that could spark off a million approaches ` Creativity in Emerging Markets .",neutral,75,0.1,0.2,positive,positive,both_wrong
+1223,"Furthermore , our fully electrically driven cranes are environmentally friendly .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+2520,"Nokia said it still expects to sell 150 more million Symbian devices in years to come , giving an indication of how it expects the Phone 7 handoff to work .",neutral,75,0.0,0.1,positive,positive,both_wrong
+3667,"Most of the growth in beer consumption took place in the Far East , Latin America and Africa .",neutral,75,0.2,0.2,positive,positive,both_wrong
+3987,"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",negative,75,0.0,0.2,neutral,neutral,both_wrong
+4006,Expense ratio was 102.6 % compared to 92.9 % in the corresponding period in 2005 .,negative,75,0.2,0.2,positive,positive,both_wrong
+4320,"Motorola , the world 's second-largest maker of cell phones , unveiled the new phone Tuesday in a bid to resurrect its ailing handset business .",neutral,75,0.1,0.1,positive,positive,both_wrong
+4415,The acquisition of +àlandsbanken Sverige in 2009 burdened the performance with EUR 3.0 mn .,negative,75,0.1,0.2,positive,neutral,both_wrong
+4794,"In Finland , the launch of tie-in sales of 3G mobile phones did not cause a dramatic rush in mobile retail outlets during the first few days .",neutral,75,0.0,0.1,positive,positive,both_wrong
+659,The loss for the third quarter of 2007 was EUR 0.3 mn smaller than the loss of the second quarter of 2007 .,positive,100,0.2,0.2,negative,negative,both_wrong
+1948,"Investors will continue being interested in the company 's share although it is not quite cheap , Affarsvarlden said .",positive,100,0.1,0.2,neutral,neutral,both_wrong
+3715,"Previously , the company expected its 2008 financial performance to remain at the same level as in 2008 .",neutral,100,0.0,0.0,positive,positive,both_wrong
+4061,Scanfil has also issued a profit warning .,negative,100,0.2,0.2,neutral,neutral,both_wrong
+896,"The company 's goal is to achieve annual savings of EUR 2 million ( USD 2.7 m ) , of which two thirds are to be realized in 2010 .",positive,66,0.2,0.9,neutral,positive,finbert_wins
+846,"However , the total orders received will still be above last year s levels .",positive,75,0.1,1.0,neutral,positive,finbert_wins
+3493,"According to Finnish financial services group Sampo 's CEO , Bj+Ârn Wahlroos , Danish Danske Bank 's acquisition of Sampo Bank for EUR 4bn was the largest cash deal in Finland 's economic history .",neutral,75,0.2,0.8,positive,neutral,finbert_wins
+4357,Yakima created the position for him after emerging from economic downturns of its own .,neutral,75,0.0,1.0,positive,neutral,finbert_wins

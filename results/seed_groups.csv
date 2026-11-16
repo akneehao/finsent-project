@@ -1,0 +1,7 @@
+experiment,budget,lead_seeds_0_4,lead_seeds_5_9,transformers_seeds_0_4,transformers_seeds_5_9
+main runs,50,0.05273851180282133,,5.21.0,
+main runs,100,0.06235205043047739,,5.21.0,
+main runs,200,0.08537648903617714,,5.21.0,
+main runs,400,0.031046114420269076,,5.21.0,
+main runs,800,0.008685691705389265,,5.21.0,
+main runs,all,0.0015298181573960789,,5.21.0,

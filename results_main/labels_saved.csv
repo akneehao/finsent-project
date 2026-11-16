@@ -1,0 +1,7 @@
+finbert_budget,finbert_n_train,finbert_macro_f1,bert_labels_needed,note
+50,50,0.5094092403628953,57.33704295191232,about as good as BERT with ~57 labels
+100,100,0.6241357763698161,131.9261862607194,about as good as BERT with ~132 labels
+200,200,0.7219817920407893,272.1324148997765,about as good as BERT with ~272 labels
+400,400,0.7702811836508359,403.80982780842294,about as good as BERT with ~404 labels
+800,800,0.792355369881492,663.8756643935972,about as good as BERT with ~664 labels
+all,3384,0.83040478950535,,"at 0.830, level with or above BERT with all 3384 labels (0.830)"

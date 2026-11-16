@@ -1,0 +1,2 @@
+model,test_acc,test_macro_f1,test_f1_negative,test_f1_neutral,test_f1_positive,test_acc_agree100,test_acc_agree75,test_acc_agree66,test_acc_agree50
+ProsusAI/finbert (no training on our data),0.8842975206611571,0.8812263137413906,0.8957528957528957,0.9016393442622951,0.846286701208981,0.9823008849557522,0.8975409836065574,0.7746478873239436,0.6384615384615384

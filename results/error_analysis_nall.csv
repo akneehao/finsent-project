@@ -1,0 +1,146 @@
+id,sentence,label,agreement,bert_right_share,finbert_right_share,bert_usual_label,finbert_usual_label,pattern
+425,"Finnish heat-retaining fireplaces maker Tulikivi Oyj said on August 29 , 2007 that its local tiled stoves and utility ceramics subsidiary Kermansavi Oy will merge into Tulikivi by means of absorption in order to streamline the latest 's corporate structure .",neutral,50,1.0,0.0,neutral,positive,bert_wins
+1487,A realignment of interests in the sector is clearly under way .,positive,50,0.8,0.0,positive,neutral,bert_wins
+1500,BG Crane has a strong customer base in the on-road load handling and related installation and service businesses .,neutral,50,0.8,0.0,neutral,positive,bert_wins
+2338,"Consumer products manufacturer Fiskars Corp. will open a distribution and warehouse center in Southaven , creating 100 jobs .",positive,50,1.0,0.2,positive,neutral,bert_wins
+4131,"The third applicant , Fortum , was dropped .",neutral,50,1.0,0.0,neutral,negative,bert_wins
+661,"According to Sepp+ñnen , the new technology UMTS900 solution network building costs are by one-third lower than that of the building of 3.5 G networks , operating at 2,100 MHz frequency .",positive,66,0.8,0.2,positive,neutral,bert_wins
+729,RISING costs have forced packaging producer Huhtamaki to axe 90 jobs at its Hampshire manufacturing plant .,negative,66,1.0,0.0,negative,positive,bert_wins
+1608,"The company had earlier said that it was considering different strategic options for the struggling low-cost mobile operator , including a divestment of its holding .",neutral,66,1.0,0.0,neutral,positive,bert_wins
+1937,Business boomed after Ostrom helped plant a small story about Rapala lures in a Life magazine issue that featured Marilyn Monroe on the cover .,positive,66,1.0,0.0,positive,neutral,bert_wins
+2372,"Member of the HK Ruokatalo Group in Finland , Scan , is launching a joint venture slaughterhouse with Team Ugglarp in Sk+Ñne , southern Sweden .",neutral,66,1.0,0.0,neutral,positive,bert_wins
+3338,The sale of the food potato business is part of Raisio 's plan to streamline and clarify its business operations .,neutral,66,0.8,0.0,neutral,positive,bert_wins
+1058,"Nokia will continue to invest in future development of Qt , and Digia will be responsible for commercial licensing and services business .",neutral,75,1.0,0.0,neutral,positive,bert_wins
+2085,Diluted loss per share stood at EUR 0.15 versus EUR 0.26 .,positive,75,1.0,0.0,positive,negative,bert_wins
+2685,This solution is an extension to the existing online mediation solution delivered earlier by Comptel and IBM .,neutral,75,1.0,0.2,neutral,positive,bert_wins
+3350,"The share sale , to foreign and Finnish investors , is expected to raise some euro300 million ( US$ 380 million ) .",neutral,75,1.0,0.0,neutral,positive,bert_wins
+3681,News Corp. 's MySpace.com Web site will display submissions for the expanded Broadband Emmy Awards as part of an effort to identify aspiring video artists .,neutral,75,1.0,0.0,neutral,positive,bert_wins
+3987,"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",negative,75,1.0,0.2,negative,neutral,bert_wins
+4261,"The prosecutor is also demanding Outokumpu pay a fine of EUR 800,000 at most .",negative,75,0.8,0.0,negative,neutral,bert_wins
+4478,All Amer Sports companies develop and manufacture technically advanced products that improve the performance of active sports participants .,neutral,75,0.8,0.2,neutral,positive,bert_wins
+904,"The original name Componenta +àm+Ñl , as a subsidiary of the Finnish Componenta Group , has been changed to +àm+Ñl Components and the company has seen a 63 % growth in Q1 2010 , in comparison to Q1 2009 .",positive,100,1.0,0.0,positive,neutral,bert_wins
+2168,"Pre-tax loss totaled EUR 0.3 mn , compared to a loss of EUR 2.2 mn in the first quarter of 2005 .",positive,100,0.8,0.0,positive,negative,bert_wins
+3759,The bank 's leasing arm Nordea Liising ended the year with a profit of 4.4 million euros .,neutral,100,0.8,0.0,neutral,positive,bert_wins
+3833,"The executive said that countries such as Brazil , Chile , Argentina and Mexico will lead the adoption in the business Ethernet services segment , while Brazil and Mexico will be the early adopters of carrier Ethernet for mobile backhaul .",neutral,100,1.0,0.2,neutral,positive,bert_wins
+62,"`` The new agreement is a continuation to theagreement signed earlier this year with the Lemminkainen Group , whereby Cramo acquired the entire construction machine fleet ofLemminkainen Talo Oy Ita - ja Pohjois Suomo , and signed asimilar agreement , '' said Tatu Hauhio , managing director ofCramo Finland .",neutral,50,0.0,0.0,positive,positive,both_wrong
+63,"At first the contract envisaged the construction of three ferryboats with an option for two more units , further confirmed at a total value of 500 mln euro ( $ 645.8 mln ) .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+125,"The circuit 's overall production rate on a weekly basis is now in excess of an average of 40,000 tonnes per day , with volumes in excess of 50,000 tonnes per day being reached on individual days .",positive,50,0.2,0.2,neutral,neutral,both_wrong
+296,The increase in capital stock has been registered in the Finnish Trade Register on 20 November 2006 .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+413,A tinyurl link takes users to a scamming site promising that users can earn thousands of dollars by becoming a Google ( NASDAQ : GOOG ) Cash advertiser .,negative,50,0.0,0.0,neutral,neutral,both_wrong
+457,TietoEnator signed an agreement to acquire Indian research and development ( R&D ) services provider and turnkey software solutions developer Fortuna Technologies Pvt. Ltd. for 21 mln euro ( $ 30.3 mln ) in September 2007 .,neutral,50,0.0,0.0,positive,positive,both_wrong
+616,4G allows customers to use mobile broadband services with speeds up to ten times higher than with today 's 3G .,positive,50,0.2,0.0,neutral,neutral,both_wrong
+693,The European Central Bank ECB is anticipated to raise its benchmark interest rate in the second half of 2011 at the earliest .,neutral,50,0.0,0.0,positive,positive,both_wrong
+796,16 February 2011 - Finnish industrial machinery company Metso Oyj ( HEL : MEO1V ) said today it will deliver minerals processing equipment and basic engineering to Canadian miner Northland Resources ( OSL : NAUR ) ( TSE : NAU ) .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+869,Panostaja Oyj s ( Panostaja ) Board of Directors decided on 16 December 2010 on a new long-term incentive and commitment plan for members of the management team .,positive,50,0.2,0.0,neutral,neutral,both_wrong
+949,"Honka 's subsidiaries in France and Germany will also benefit by , for example , arranging customer events in conjunction with World Cup skiing competitions .",neutral,50,0.0,0.0,positive,positive,both_wrong
+1015,"Additionally , retailers can use the same hardware across all tasks in stores and throughout the warehouse , providing substantial savings on support and infrastructure costs .",neutral,50,0.0,0.0,positive,positive,both_wrong
+1055,"Mr. Jorma Valkama , Managing Director of Suomen Paikallissanomat Oy , states that Rannikkoseutu complements in an outstanding way the current product range of the company .",neutral,50,0.0,0.0,positive,positive,both_wrong
+1100,"The report provides a comprehensive insight into the company , including business structure and operations , executive biographies and key competitors .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1123,"`` Installation of the automatic varnishing line is an important part of the company 's strategy in the region of central and eastern Europe , '' said Jozef Misurec , the director of Ruukki Slovakia .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1156,"Ahlstrom Corporation STOCK EXCHANGE RELEASE 13.02.2008 Ahlstrom , a global leader in high performance fiber-based materials , today announced the completion of the acquisition of Friend Group Inc. , which consists of West Carrollton Parchment Company and West Carrollton Converting Company .",neutral,50,0.0,0.2,positive,positive,both_wrong
+1167,Altimo and TeliaSonera said yesterday that Usmanov would be welcome to join the new company .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1171,"Anttila 's online department store - NetAnttila - has an established position as the best-known , most visited and most shopped online store in Finland  .",neutral,50,0.0,0.0,positive,positive,both_wrong
+1289,"Nordea Bank ( STO : NDA ) and Sampo Bank have helped Finnish real estate investment company Sponda ( HEL : SDA1V ) place a EUR100m ( USD125 .4 m ) domestic bond , the company said Friday .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1297,One of Uponor 's promising future products is a hydronic cooling system .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1323,"RK Group , headquartered in Vantaa , Finland , is one of Europe 's leading machinery rental services .",neutral,50,0.0,0.2,positive,positive,both_wrong
+1328,Shareholders of Rakvere Lihakombinaat decided in favor of the buyout of minority shares in mid-July .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1341,Technopolis is Europe 's leading operator of technoparks .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1468,`` Rapala is excited to be partnering with RBFF and other industry leaders on this holiday promotion . '',neutral,50,0.0,0.0,positive,positive,both_wrong
+1703,"IT services firm TietoEnator was bucking the general trend , holding flat at 22.70 eur , after slipping back from earlier gains .",negative,50,0.0,0.0,positive,positive,both_wrong
+1713,I thank Jarmo Ukonaho warmly for his contribution and wish him all the best in the future challenges . '',neutral,50,0.0,0.0,positive,positive,both_wrong
+1861,"The iTunes-based material will be accessible on Windows-based or Macintosh computers and transferable to portable devices , including Apple 's iPods .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+1869,This bold spinning 360 red fabric design is set beautifully on Ercols Napoli sofa .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+1888,CDLI highlights the companies that provided the most comprehensive response to the Carbon Disclosure Project CDP information request .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+2052,"Vaahto , which has entered the deal via its subsidiary Vaahto Pulp & Paper Machinery , will supply two of the units in the end of 2010 , while the remaining ones are expected for delivery in the beginning of 2011 .",positive,50,0.0,0.0,neutral,neutral,both_wrong
+2245,Under the agreement Ponsse will provide forest machine maintenance services to Stora Enso 's Russian wood procurement operations .,neutral,50,0.0,0.0,positive,positive,both_wrong
+2449,Finnish food company Raisio Oyj HEL : RAIVV said today it will buy British snacks and confectionery company Big Bear Group plc for an enterprise value of EUR 95.3 million USD 129.9 m .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+3163,"The business goals for 2009 will realize with the temporary lay-offs carried out in the summer of 2009 , and with other savings measures .",neutral,50,0.0,0.0,positive,positive,both_wrong
+3198,"The company will also shut one paper machine in Finland and one in Austria , as well as two label paper machines in Finland for up to 10 months , Helsinki-based UPM said yesterday .",neutral,50,0.0,0.0,negative,negative,both_wrong
+3593,"Garmin fell 4.5 percent to $ 34.53 at 1:33 p.m. in New York , while Google slid 0.7 percent at $ 576.50 .",neutral,50,0.0,0.0,negative,negative,both_wrong
+3620,"In banking , Sampo A was unchanged at 14.24 eur and Nordea rose 0.42 pct to 9.51 eur .",positive,50,0.0,0.2,neutral,neutral,both_wrong
+3854,The merger between the two telecoms operators was expected to result in the world 's fourth largest telecoms operator .,neutral,50,0.2,0.0,positive,positive,both_wrong
+3962,"Vacon aims to establish its presence in the solar energy business in various parts of the world towards the end of 2010 , said Olli Teva , marketing director renewable energy applications .",neutral,50,0.2,0.0,positive,positive,both_wrong
+4036,Raisio 's malting capacity was in full use in 2008 .,positive,50,0.0,0.0,neutral,neutral,both_wrong
+4037,"Raw materials prices have surged in the past year , fueled in part because of the rapid industrialization of China , India and other developing nations .",negative,50,0.0,0.0,positive,positive,both_wrong
+4104,During the negotiations a reduction of 21 persons has taken place through natural redundancy or termination of fixed-term contracts .,neutral,50,0.0,0.0,negative,negative,both_wrong
+4119,"That 's what I go to bed worrying about every night , ' he said .",negative,50,0.0,0.0,neutral,neutral,both_wrong
+4153,"According to Laavainen , Raisio 's food marketing used to be reactive and inconsistent .",negative,50,0.0,0.0,neutral,neutral,both_wrong
+4277,"We are adjusting to the present situation by cutting our capacity and costs without , however , jeopardising our Asia strategy over the longer term .",neutral,50,0.0,0.0,positive,positive,both_wrong
+4318,Most of the layoffs will be in Finland .,negative,50,0.0,0.0,neutral,neutral,both_wrong
+4381,"At present , the trade mark Pit-Produkt is little-known outside the North-West of Russia .",negative,50,0.0,0.0,neutral,neutral,both_wrong
+4461,This ideally placed them in a position to tap into the potential of clean technology .,neutral,50,0.0,0.0,positive,positive,both_wrong
+4476,"`` We love Activision 's fresh , colorful approach to Rapala : We Fish , '' said Kelly Brockpahler , Rapala .",positive,50,0.0,0.2,neutral,neutral,both_wrong
+60,The company supports its global customers in developing new technologies and offers a fast route from product development to applications and volume production .,neutral,66,0.0,0.2,positive,positive,both_wrong
+437,"MILAN ( AFX ) - The Italian shipping group Grimaldi has increased its stake in the Finnish company Finnlines to 35.4 pct from the 30.5 pct held in June , according to news agency ANSA .",neutral,66,0.0,0.0,positive,positive,both_wrong
+509,The company plans to spend the proceeds from the rights offering for strengthening its balance sheet .,neutral,66,0.0,0.0,positive,positive,both_wrong
+530,"UK 's Sarantel to outsource part of its processes to Elcoteq plant in Estonia LONDON , Oct 13 , BNS - The British miniature antennas maker Sarantel has signed an agreement to outsource its assembly test and supply chain processes to the plant of Elcoteq in the Estonian capital Tallinn .",neutral,66,0.0,0.2,positive,positive,both_wrong
+691,Also construction expenses have gone up in Russia .,negative,66,0.0,0.0,positive,positive,both_wrong
+734,"At the moment , Valio is not worried , but if the ban continues for long , it may become quite a problem .",negative,66,0.0,0.0,neutral,neutral,both_wrong
+815,"According to the CEO of Nordea Bank Estonia Vahur Kraft , Nordea Finland and Stockmann have been cooperating for more than ten years .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+937,"As a result , the distribution companies will start to distribute , in addition to their current product offering , Shimano reels , rods and other Shimano fishing tackle products on an exclusive basis .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+951,Incap and Lankapaja aim to enter into actual agreement to transfer the sheet-metal production to the buyer in February in order to complete the transfer on 1 March 2011 .,positive,66,0.0,0.0,neutral,neutral,both_wrong
+1485,A new Kveyt light variety of Suomalainen Pekoni marketed under the Atria brand name is now available to consumers in Finland .,positive,66,0.0,0.0,neutral,neutral,both_wrong
+1490,"Finnish construction company YIT Corporation is planning to build about 200 high-quality holiday homes near the Tahko ski and spa resort , in Finland .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+1632,"The most loyal customers were found in the Bank of +àland , with an index of 8.0 .",positive,66,0.2,0.0,neutral,neutral,both_wrong
+1660,"There are companies , which are ready to invest their own funds in this deal such as Rostelecom RTS : RTKM .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+1847,It said Comptel delivers reliable provisioning and activation solutions which improve fulfilment processes for operators .,neutral,66,0.0,0.0,positive,positive,both_wrong
+1879,`` Russia is ready to participate in an open tender for Lattelecom 's privatization .,neutral,66,0.0,0.0,positive,positive,both_wrong
+1942,"The negotiations were carried out in a constructive manner , and all parties tried to find a solution to the situation .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+2079,Commencing the construction works of Pearl Plaza is a significant step in our Russian projects .,positive,66,0.0,0.0,neutral,neutral,both_wrong
+2095,"Finnish forest machinery and equipment maker Ponsse Oyj said on October 5 , 2007 it will deliver a total of 67 cut-to-length method forest machines and 44 harvester heads to Brazilian paper maker Bahia Pulp and to unnamed Uruguayan wood harvesting contractors .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+2254,"Brazilian non-profit interbank Camara Interbancaria de Pagamentos CIP has acquired solutions from US business integration solutions provider Sterling Commerce , the latter company said in a statement .",positive,66,0.0,0.0,neutral,neutral,both_wrong
+3202,The compnay also said that it would lower the price of development projects by about one third compared with last November .,neutral,66,0.0,0.0,positive,negative,both_wrong
+3322,The prices of stainless steel also rose in Europe .,neutral,66,0.0,0.0,positive,positive,both_wrong
+3469,`` Marimekko aims to expand its distribution network primarily by increasing the number of concept stores and shop-in-shops .,neutral,66,0.0,0.0,positive,positive,both_wrong
+3563,Earnings per share EPS in the first quarter amounted to a loss of EUR0 .20 .,neutral,66,0.0,0.0,negative,negative,both_wrong
+3651,"Laavainen said Benecol was well known in Europe and the US , where it had been in the market for 15 years .",neutral,66,0.0,0.0,positive,positive,both_wrong
+3790,The company plans to increase the unit 's specialist staff to several dozen -- depending on the market situation during 2010 .,neutral,66,0.0,0.0,positive,positive,both_wrong
+3973,"With the government exempting certain stainless steel products from anti-dumping duties , Finland-based Outokumpu today said it will look to enter into supply pacts with the Indian Railways soon .",neutral,66,0.0,0.0,positive,positive,both_wrong
+4141,"According to Swedish authorities , traces of the very toxic osmium tetroxide have been found on the coast of Per+ñmeri , the Northernmost part of the Gulf of Bothnia .",negative,66,0.0,0.0,neutral,neutral,both_wrong
+4275,This is due to the postponement of the decision-making of projects in the negotiation phase from the earlier estimation .,neutral,66,0.0,0.0,negative,negative,both_wrong
+4832,"Rinkuskiai 's beer sales fell by 6.5 per cent to 4.16 million litres , while Kauno Alus ' beer sales jumped by 6.9 per cent to 2.48 million litres .",neutral,66,0.0,0.0,negative,negative,both_wrong
+59,"In Sweden , Gallerix accumulated SEK denominated sales were down 1 % and EUR denominated sales were up 11 % .",neutral,75,0.0,0.0,negative,negative,both_wrong
+61,"When this investment is in place , Atria plans to expand into the Moscow market .",neutral,75,0.0,0.0,positive,positive,both_wrong
+75,"On the route between Helsinki in Finland and Tallinn in Estonia , cargo volumes increased by 36 % , while cargo volumes between Finland and Sweden fell by 9 % .",neutral,75,0.0,0.0,positive,positive,both_wrong
+850,Industry Investment is very interested in Glaston 's solar energy projects .,positive,75,0.0,0.0,neutral,neutral,both_wrong
+853,"Known as Post Bank , the concept would see Fidelity Bank rolling out 75 offices in Ghana Post premises , to provide financial services to the people .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+907,"The planned facility , estimated to cost around $ 814 million , would be the largest biodiesel plant in the world , and use palm oil certified by the Roundtable on Sustainable Palm Oil ( RSPO ) .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+1223,"Furthermore , our fully electrically driven cranes are environmentally friendly .",positive,75,0.0,0.0,neutral,neutral,both_wrong
+1284,NASDAQ-listed Yahoo Inc has introduced a new service that enables Malaysians to take their favorite Internet content and services with them on their mobile phones .,positive,75,0.0,0.0,neutral,neutral,both_wrong
+1647,The second-quarter net sales are expected to be on par with the first quarter of 2009 .,neutral,75,0.0,0.0,positive,positive,both_wrong
+2520,"Nokia said it still expects to sell 150 more million Symbian devices in years to come , giving an indication of how it expects the Phone 7 handoff to work .",neutral,75,0.2,0.0,positive,positive,both_wrong
+4794,"In Finland , the launch of tie-in sales of 3G mobile phones did not cause a dramatic rush in mobile retail outlets during the first few days .",neutral,75,0.0,0.0,positive,positive,both_wrong
+992,These moderate but significant changes resulted in a significant 24-32 % reduction in the estimated CVD risk .,positive,100,0.0,0.0,negative,neutral,both_wrong
+1331,Shuweihat 2 got under way in July 2008 when the project was awarded to desalination and power contractors .,neutral,100,0.0,0.0,positive,positive,both_wrong
+1458,ASSA ABLOY Kaupthing Bank gave a ` neutral ' recommendation and a share price target of 174 crowns $ 24.7 - 19 euro on Swedish lock maker Assa Abloy AB .,neutral,100,0.0,0.0,positive,positive,both_wrong
+1948,"Investors will continue being interested in the company 's share although it is not quite cheap , Affarsvarlden said .",positive,100,0.0,0.0,neutral,neutral,both_wrong
+4001,Diluted earnings per share ( EPS ) stood at EUR 0.25 versus EUR 0.42 .,negative,100,0.0,0.2,positive,positive,both_wrong
+1130,1 November 2010 - Finnish textile and clothing company Marimekko Oyj ( HEL : MMO1V ) announced on Friday the opening of its first concept store in Seoul in cooperation with Japanese sector player Look Inc ( TYO : 8029 ) .,positive,50,0.0,0.8,neutral,positive,finbert_wins
+1927,"We have sound experience of project deliveries for large multi-purpose complexes and sports arenas '' , says Sami Eronen , SVP , Infrastructure and Northern Europe , Ruukki Construction .",neutral,50,0.0,1.0,positive,neutral,finbert_wins
+2161,Nokia has enough users to do just as well .,neutral,50,0.0,1.0,positive,neutral,finbert_wins
+2509,"Nastola , axe 14 jobs 16 February 2010 - Finnish wood products technology firm Raute Oyj HEL : RUTAV said today that it will transfer to Nastola , southern Finland , the production of its Jyvaskyla plant , which will affect 14 people .",neutral,50,0.0,1.0,negative,neutral,finbert_wins
+3485,A profit is still on target .,positive,50,0.2,1.0,neutral,positive,finbert_wins
+3500,"After the transaction , Danske Bank becomes an equal player with Nordic bank group Nordea in the Nordic countries .",neutral,50,0.0,1.0,positive,neutral,finbert_wins
+4215,Nokia is requesting that the companies stop making and selling the mobile phones and pay monetary damages and costs .,neutral,50,0.2,0.8,negative,neutral,finbert_wins
+364,Ruukki signed the contract with Norwegian company Veidekke Entreprenor AS .,positive,66,0.2,1.0,neutral,positive,finbert_wins
+849,"In future , the company intends to look for know-how from outside the company and to cooperate with other actors in the sector .",positive,66,0.0,1.0,neutral,positive,finbert_wins
+1961,"He announced a `` solutions unit '' to speed co-operation in August , and shifted Simonson from finance chief to low-end phones in October .",neutral,66,0.0,1.0,positive,neutral,finbert_wins
+3109,services supplier Efore Plc to streamline operations in Finland and the US Finnish electronic systems and services supplier Efore Plc ( OMX Helsinki : EFO1V ) said on Tuesday ( 3 February ) that it has initiated statutory negotiations regarding a streamlining of its operations in Finland .,positive,66,0.2,1.0,neutral,positive,finbert_wins
+3779,The company also said that the deployment of the Danish 4G network continues and it expects to cover 75 % of the Danish population in 2011 .,neutral,66,0.0,1.0,positive,neutral,finbert_wins
+4512,1 Block lamp Harri Koskinen 's light was introduced in 1996 and has been a bestseller ever since .,positive,66,0.0,1.0,neutral,positive,finbert_wins
+567,"Cencorp , headquartered in Virkkala , Finland , develops and supplies automation solutions to the electronics and semiconductor industry that enhance productivity .",neutral,75,0.2,1.0,positive,neutral,finbert_wins
+795,"`` We continued actively to focus R&D and to position our offering away from point solutions towards dynamic end-to-end solutions , '' Ervio stated .",positive,75,0.0,0.8,neutral,positive,finbert_wins
+838,"Forestries were also higher , driven by yesterday 's bullish analyst comment on Stora Enso in Dagens Industri , dealers said .",positive,75,0.0,1.0,neutral,positive,finbert_wins
+889,"The broker has initiated both Palfinger AG and Konecranes OYJ with ` buy ' recommendations , with 51 and 42 eur price targets respectively .",positive,75,0.2,1.0,neutral,positive,finbert_wins
+945,fi is developing cooperation in keyword advertising with Microsoft .,positive,75,0.2,1.0,neutral,positive,finbert_wins
+1008,"A maximum of 20 employees , who work in Karttakeskus and are responsible for producing Geographic Information Services , will be affected , the company added .",neutral,75,0.0,0.8,negative,neutral,finbert_wins
+1419,The shipyard hopes the regional government in Andalusia can offer its some form of financial support .,neutral,75,0.0,1.0,positive,neutral,finbert_wins
+2683,This is the company 's first contract abroad .,neutral,75,0.2,0.8,positive,neutral,finbert_wins
+3493,"According to Finnish financial services group Sampo 's CEO , Bj+Ârn Wahlroos , Danish Danske Bank 's acquisition of Sampo Bank for EUR 4bn was the largest cash deal in Finland 's economic history .",neutral,75,0.0,1.0,positive,neutral,finbert_wins
+3939,These six agreements are the company 's first customer acquisitions in India since taking over TVS Electronics ' contract manufacturing facility in Jun 2007 .,neutral,75,0.0,0.8,positive,neutral,finbert_wins
+4613,"At 12.59 pm , the OMX Helsinki 25 index was 0.32 pct lower at 2,694.81 .",negative,75,0.2,1.0,neutral,negative,finbert_wins
+1542,"It is part of the development of the world-class magnetite deposit at Karara , which has the known potential for over 30 million metric tons of annual processing of magnetite over its estimated 30-year life .",neutral,100,0.2,1.0,positive,neutral,finbert_wins
+2806,"As part of the agreement , Aspocomp will also give Meadville a 10 pct slice of a subsidiary operating in Oulu , Finland .",neutral,100,0.2,1.0,positive,neutral,finbert_wins
+3033,Negotiations with representatives of the personnel regarding the restructuring process have now been ended .,neutral,100,0.2,1.0,negative,neutral,finbert_wins
+3566,Elcoteq expects its net sales for the last quarter of 2010 to be on the level of the third quarter .,neutral,100,0.2,1.0,positive,neutral,finbert_wins
+3715,"Previously , the company expected its 2008 financial performance to remain at the same level as in 2008 .",neutral,100,0.2,1.0,positive,neutral,finbert_wins

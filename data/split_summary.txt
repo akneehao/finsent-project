@@ -1,0 +1,23 @@
+Financial PhraseBank after cleaning
+
+lines in 50agree file: 4846
+exact duplicates dropped: 8
+sentences with conflicting labels dropped: 2
+unique sentences kept: 4836
+groups of near-identical sentences (differ only in numbers): 22, covering 52 sentences
+
+Sentences per split and label:
+label  negative  neutral  positive   All
+split                                   
+test        121      575       272   968
+train       423     2009       952  3384
+val          60      287       137   484
+All         604     2871      1361  4836
+
+Sentences per split and agreement level (% of annotators who agreed):
+agreement   50   66    75   100   All
+split                                
+test       130  142   244   452   968
+train      429  538   814  1603  3384
+val         68   81   131   204   484
+All        627  761  1189  2259  4836
